@@ -1,1 +1,1 @@
-# com.translator.kapamtalk
+Updates regarding the application of KapamTalk
